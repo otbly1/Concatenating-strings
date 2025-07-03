@@ -1,0 +1,14 @@
+C:\Users\otbly\OneDrive\سطح المكتب\New Me\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.exe
+C:\Users\otbly\OneDrive\سطح المكتب\New Me\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.deps.json
+C:\Users\otbly\OneDrive\سطح المكتب\New Me\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.runtimeconfig.json
+C:\Users\otbly\OneDrive\سطح المكتب\New Me\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.dll
+C:\Users\otbly\OneDrive\سطح المكتب\New Me\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.pdb
+C:\Users\otbly\OneDrive\سطح المكتب\New Me\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otbly\OneDrive\سطح المكتب\New Me\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\otbly\OneDrive\سطح المكتب\New Me\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+C:\Users\otbly\OneDrive\سطح المكتب\New Me\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\otbly\OneDrive\سطح المكتب\New Me\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.dll
+C:\Users\otbly\OneDrive\سطح المكتب\New Me\CsharpProjects\TestProject\obj\Debug\net9.0\refint\TestProject.dll
+C:\Users\otbly\OneDrive\سطح المكتب\New Me\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.pdb
+C:\Users\otbly\OneDrive\سطح المكتب\New Me\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+C:\Users\otbly\OneDrive\سطح المكتب\New Me\CsharpProjects\TestProject\obj\Debug\net9.0\ref\TestProject.dll
